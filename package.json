@@ -11,6 +11,10 @@
     "license": "MIT",
     "dependencies": {
       "web3": "^1.5.2"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bob88bob/tea_bob/"
     }
   }
   
